@@ -1,4 +1,4 @@
-dua
 satu
-empat
+dua
 tiga
+empat
